@@ -1,0 +1,8 @@
+# This is default comment 
+
+configuration:  
+  projectName: configclient
+server:
+  port: 8000
+message:
+  greeting: This is config for DEV, DEV environment  
