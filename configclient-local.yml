@@ -5,4 +5,4 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: This is another Greeting Message
+  greeting: This is another Greeting Message, Hello 
